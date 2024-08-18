@@ -18,3 +18,5 @@ Ce projet consiste en le développement d'une application pour la détection et 
 - **Extraction de Données** : Application des modèles OCR pour extraire les informations textuelles des étiquettes des produits.
 - **Application Mobile** : Interface utilisateur développée en Java avec Android Studio pour capturer les images et afficher les informations extraites en temps réel.
 - **Backend Flask** : Serveur Flask pour traiter les images, appliquer les modèles de détection et de reconnaissance, et renvoyer les résultats à l'application mobile.
+---
+Cette version est développée par Mohamed Amine Ghamgui.
